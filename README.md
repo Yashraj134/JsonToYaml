@@ -1,8 +1,3 @@
-Unmaintained Mirror
-===============
-
-Please go to the real repo at <https://git.coolaj86.com/coolaj86/json2yaml.js>
-
 json2yaml
 ===
 
